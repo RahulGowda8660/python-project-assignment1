@@ -1,0 +1,6 @@
+x = int(input("enter 1st number:"))
+y = int(input("enter 2nd number:"))
+print(f"addition of x and y:",int(x) + int(y))
+print(f"substraction of x and y:",int(x) - int(y))
+print(f"multiplication of x and y:",int(x) * int(y))
+print(f"division of x and y:",int(x) / int(y))
